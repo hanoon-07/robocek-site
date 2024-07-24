@@ -1,2 +1,2 @@
 # robocek-site
-cloning website 
+making responsive website for practice 
